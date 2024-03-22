@@ -29,4 +29,4 @@
 
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"What doesn't kill you, makes you wish you were dead" - Bring me the horizon
