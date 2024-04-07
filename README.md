@@ -1,7 +1,7 @@
 ### 😄 Olá, me chamo Antonio Carlos e tenho 22 anos, dicas construtivas sempre serão bem-vidas, sinta-se à vontade.
 
 - 🎓 Estudante de Ciências da Computação na UNESA-RJ. ( 4° período )
-- 📖 Conhecimentos básicos em algumas linguagens como C, PHP, JS e Python.
+- 📖 Conhecimentos básicos em algumas linguagens de programação como C, PHP, JS e Python.
 - 👓 Atualmente estou focando no Desenv. Web, me especializando em JS, React e Node.js, porém tenho interesse em outros frameworks e linguagens.
 - 🖥️ Meu website: https://antonio-carlos.vercel.app/
 
