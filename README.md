@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=972EF7FF&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Antonio+Carlos+e+sou+desenvolvedor+Front-end!%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=972EF7FF&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Antonio+Carlos+e+sou+desenvolvedor+Front-end!%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 - 🎓 Estudante de Ciências da Computação na UNESA-RJ. ( 4° período )
 - 📖 Conhecimentos básicos em algumas linguagens de programação como C, PHP, JS e Python.
 - 👓 Atualmente estou focando no Desenv. Web, me especializando em JS, React e Node.js, porém tenho interesse em outros frameworks e linguagens.
