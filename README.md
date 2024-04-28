@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=972EF7FF&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Antonio+Carlos+e+sou+desenvolvedor+Front-end!%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
-![arte-digital-de-um-jovem-estudante-na-escola](https://github.com/accsj/accsj/assets/109449153/11130462-3e03-41e4-a516-71daedbcab03)
-
 ![lineBar](https://github.com/accsj/accsj/assets/109449153/9bbecb75-868d-428f-b794-8feda6812675)
 
 <div align="left">
@@ -49,3 +47,6 @@
 
 
 "What doesn't kill you, makes you wish you were dead" - Bring me the horizon
+
+
+<img align="center" alt="waves" src="https://camo.githubusercontent.com/c3bf356e4feec3f47ab371827a339ced5526a84d9eff5c44edef7fd2da7b4327/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3343414146462c3130303a356266666666266865696768743d3132302673656374696f6e3d666f6f746572">
