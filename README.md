@@ -13,7 +13,7 @@
 
 ![lineBar](https://github.com/accsj/accsj/assets/109449153/9bbecb75-868d-428f-b794-8feda6812675)
 
-## About me
+## Sobre mim
 
 - 🎓 Estudante de Ciências da Computação na UNESA-RJ. ( 4° período )
 - 📖 Conhecimentos básicos em algumas linguagens de programação como C, PHP, JS, TS e Python.
