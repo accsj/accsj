@@ -22,7 +22,7 @@
 
 ![lineBar](https://github.com/accsj/accsj/assets/109449153/9bbecb75-868d-428f-b794-8feda6812675)
 
-## My stack
+## Tecnologias
 
   <div style="display: inline_block">
   <img align="center" alt="accsj-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
