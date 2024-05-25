@@ -44,6 +44,6 @@
   <a href="https://www.linkedin.com/in/antonio-carlos-cabral-7b287b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
 </div>
 
-"What doesn't kill you, makes you wish you were dead" - Bring me the horizon
+"What doesn't kill you, makes you wish you we're dead" - Bring me the horizon
 
 <img align="center" alt="waves" src="https://camo.githubusercontent.com/c3bf356e4feec3f47ab371827a339ced5526a84d9eff5c44edef7fd2da7b4327/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3343414146462c3130303a356266666666266865696768743d3132302673656374696f6e3d666f6f746572">
