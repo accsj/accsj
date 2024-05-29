@@ -17,7 +17,7 @@
 
 - 🎓 Estudante de Ciências da Computação na UNESA-RJ. ( 4° período )
 - 📖 Conhecimentos em algumas linguagens de programação como C, PHP, JS, TS, Python e Java.
-- 👓 Atualmente estou focando no Desenv. Web, me especializando em JS, TS, React, Angular e Node.js, porém tenho interesse em outros frameworks e linguagens.
+- 👓 Atualmente estou focando no desenvolvimento web e me especializando em JS, TS, React, Angular e Node.js, porém tenho interesse em outros frameworks e linguagens.
 - 🖥️ Meu website: https://antonio-carlos.vercel.app/
 
 ![lineBar](https://github.com/accsj/accsj/assets/109449153/9bbecb75-868d-428f-b794-8feda6812675)
