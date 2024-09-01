@@ -45,4 +45,4 @@
   <a href="https://www.linkedin.com/in/antonio-carlos-cabral-7b287b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
 </div>
 
-"The machine can do anything that can be described by a set of rules." - Alan Turing
+"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human." - Alan Turing
