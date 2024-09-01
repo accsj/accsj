@@ -25,7 +25,7 @@
 ## Tecnologias
 
   <div style="display: inline_block">
-  <img align="center" alt="accsj-Nodejs" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> 
+  <img align="center" alt="accsj-Nodejs" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"> 
   <img align="center" alt="accsj-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="accsj-Js" height="50" width="40" padding-bottom='10px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="accsj-Js" height="50" width="40" padding-bottom='10px' src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
