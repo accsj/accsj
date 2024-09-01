@@ -45,4 +45,4 @@
   <a href="https://www.linkedin.com/in/antonio-carlos-cabral-7b287b188/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a>
 </div>
 
-"What doesn't kill you, makes you wish you we're dead" - Bring me the horizon
+"The machine can do anything that can be described by a set of rules." - Alan Turing
