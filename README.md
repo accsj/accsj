@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=972EF7FF&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Antonio+Carlos+e+sou+desenvolvedor+Front-end!%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=972EF7FF&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Antonio+Carlos+e+sou+desenvolvedor+Fullstack!%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 ![lineBar](https://github.com/accsj/accsj/assets/109449153/9bbecb75-868d-428f-b794-8feda6812675)
 
