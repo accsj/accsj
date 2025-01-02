@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=972EF7FF&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Antonio+Carlos+e+sou+desenvolvedor+Fullstack!%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
+<img height="400" width="100%" src="https://github.com/user-attachments/assets/8f3ef5a4-d0e4-4f8f-b0c9-a3695755bdc7">
+
 ![lineBar](https://github.com/accsj/accsj/assets/109449153/9bbecb75-868d-428f-b794-8feda6812675)
 
 <div align="center">
@@ -30,8 +32,8 @@
   <img align="center" alt="accsj-Js" height="50" width="40" padding-bottom='10px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="accsj-Js" height="50" width="40" padding-bottom='10px' src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="accsj-C" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="accsj-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="accsj-JAVA" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="accsj-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="accsj-SPRING" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="accsj-Nodejs" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="accsj-docker" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
